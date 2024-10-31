@@ -1,6 +1,10 @@
 ## Konnichiwa, watashi no namae wa Aleksandra
 
-<img src="https://i.postimg.cc/nV1N4pPq/coffe.png" style="width: 50px; height: 50px; text-align: center;">
+<div>
+<img src="https://i.postimg.cc/nV1N4pPq/coffe.png" style="width: 50px; height: 50px; text-align: center; margin-right:10px;">
+  &nbsp;&nbsp;
+<img src="https://i.postimg.cc/GpfrFrgc/lainsl.jpg" style="width: 50px; height: 50px; text-align: center; margin-right:10px;">
+</div> 
 
 <div align="left">
   <a href="https://github.com/aleksanddev">
