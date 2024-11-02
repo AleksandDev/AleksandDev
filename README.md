@@ -9,7 +9,7 @@
 <div align="left">
   <a href="https://github.com/aleksanddev">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aleksanddev&show_icons=true&theme=moltack"/>
-    ;
+    &nbsp;&nbsp;
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanddev&layout=compact&theme=moltack"/>
 </div>
 
