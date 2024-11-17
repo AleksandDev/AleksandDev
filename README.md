@@ -3,7 +3,7 @@
 >
 >A student of ADS at Impacta Tecnologia
 > 
->My favorite language is Java☕
+>My favorite programming language is Java☕
 >
 > A future Software Engineer
 
