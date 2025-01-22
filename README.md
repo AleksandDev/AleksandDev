@@ -1,7 +1,7 @@
 ## Konnichiwa, watashi no namae wa Aleksandra
-> I'm a Developer Fullstack!
+> I'm a Developer Front-End and Data Analyst!
 >
->A student of ADS at Impacta Tecnologia
+>A student of Systems Analysis and Development at Impacta Tecnologia
 > 
 >My favorite programming language is Java☕
 >
