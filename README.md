@@ -1,4 +1,4 @@
-## Konnichiwa, watashi no namae wa Aleksandra
+## Hi, I'm Aleksandra!
 > I'm a Developer Front-End and Data Analyst!
 >
 >A student of Systems Analysis and Development at Impacta Tecnologia
