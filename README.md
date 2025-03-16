@@ -1,9 +1,7 @@
 ## Hi, I'm Aleksandra!
-> I'm a Developer Front-End and Data Analyst!
+> I'm a Developer FullStack and Data Analyst!
 >
->A student of Systems Analysis and Development at Impacta Tecnologia
-> 
->My favorite programming language is Java☕
+>A student of Systems Analysis and Development
 >
 > A future Software Engineer
 
