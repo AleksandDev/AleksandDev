@@ -1,6 +1,6 @@
 <h1 align="center">hey there 👋 I'm Aleksandra!</h1>
 
-<img align="right" height="120" border-radius="50px;" src="https://i.postimg.cc/mDz4YZvN/someone.jpg" />
+<img align="right" height="110" border-radius="50px;" src="https://i.postimg.cc/mDz4YZvN/someone.jpg" />
 
 <h3>💫 About Me:</h3>
 
@@ -73,10 +73,16 @@ I am a currently a student of Systems Analysis and Development at Impacta Tecnol
 ##
 
 <div align="center">
-  <img src="https://i.postimg.cc/nV1N4pPq/coffe.png" style="width: 150px; height: 150px; text-align: center; padding:10px; border-radius: 50px; "/>
+  <img src="https://i.postimg.cc/nV1N4pPq/coffe.png" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/GpfrFrgc/lainsl.jpg" style="width: 150px; height: 150px; text-align: center; padding:10px; border-radius: 50px;"/>
+  <img src="https://i.postimg.cc/GpfrFrgc/lainsl.jpg" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/63jdJNBT/movies.jpg" style="width: 150px; height: 150px; text-align: center; padding:10px; border-radius: 50px; "/>
+  <img src="https://i.postimg.cc/63jdJNBT/movies.jpg" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+##
+
+<div align="center">
+  <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 60px; height: 65px">
 </div>
