@@ -1,6 +1,6 @@
 <h1 align="center">hey there 👋 I'm Aleksandra!</h1>
 
-<img align="right" height="110" border-radius="50px;" src="https://i.postimg.cc/mDz4YZvN/someone.jpg" />
+<img align="right" height="110" border-radius="50px;" src="https://i.postimg.cc/mDz4YZvN/someone.jpg" alt="avatar" />
 
 <h3>💫 About Me:</h3>
 
@@ -73,16 +73,18 @@ I am a currently a student of Systems Analysis and Development at Impacta Tecnol
 ##
 
 <div align="center">
-  <img src="https://i.postimg.cc/nV1N4pPq/coffe.png" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
+  <img src="https://i.postimg.cc/nV1N4pPq/coffe.png" alt="coffee" style="width: 130px; height: 130px; text-align: center"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/GpfrFrgc/lainsl.jpg" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
+  <img src="https://i.postimg.cc/GpfrFrgc/lainsl.jpg" alt="lain" style="width: 130px; height: 130px; text-align: center;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.postimg.cc/63jdJNBT/movies.jpg" style="width: 130px; height: 130px; text-align: center; padding:10px"/>
+  <img src="https://i.postimg.cc/63jdJNBT/movies.jpg" alt="cinematograpy" style="width: 130px; height: 130px; text-align: center"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 60px; height: 65px">
+  <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" alt="bootcamp cloud computing" style="width: 60px; height: 65px">
+  &nbsp;&nbsp;
+  <img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" alt="bootcamp front-end" style="width: 72px; height: 75px">
 </div>
