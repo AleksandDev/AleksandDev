@@ -4,7 +4,7 @@
 
 <h3>💫 About Me:</h3>
 
-I am a currently a student of Systems Analysis and Development at Impacta Tecnologia, i have been exploring the world of data and looking to improve my skills in FullStack Development.
+I am a student of Informations of Systems at Impacta Tecnologia, i work as a DevOps intern and i am looking to improve my skills in FullStack Development, DevOps and RPA(Robotic Process Automation).
 
 
 ## <h3 align="left">📊 My Stats: </h3>
@@ -28,15 +28,19 @@ I am a currently a student of Systems Analysis and Development at Impacta Tecnol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 
@@ -58,7 +62,14 @@ I am a currently a student of Systems Analysis and Development at Impacta Tecnol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
 </div>
 
 ## <h3 align="left">📲 Connect With Me:</h3>
@@ -87,4 +98,6 @@ I am a currently a student of Systems Analysis and Development at Impacta Tecnol
   <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" alt="bootcamp cloud computing" style="width: 60px; height: 65px">
   &nbsp;&nbsp;
   <img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" alt="bootcamp front-end" style="width: 72px; height: 75px">
+  &nbsp;&nbsp;
+  <img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" alt="bootcamp front-end" style="width: 60px; height: 65px">
 </div>
