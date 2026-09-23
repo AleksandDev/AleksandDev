@@ -4,8 +4,11 @@
 
 <h3>💫 About Me:</h3>
 
-I am a student of Informations of Systems at Impacta Tecnologia, i work as a DevOps intern and i am looking to improve my skills in FullStack Development, DevOps and RPA(Robotic Process Automation).
+I am a Information Systems student and DevOps intern. I develop automations, applications, and operational solutions, working with infrastructure, data, and full-stack development. I am currently deepening my knowledge of Cloud, DevOps, and automation.
 
+<p align="center">
+  <img src="./devops-evolution-loading.gif" height="200" width="500">
+</p>
 
 ## <h3 align="left">📊 My Stats: </h3>
 
@@ -70,6 +73,8 @@ I am a student of Informations of Systems at Impacta Tecnologia, i work as a Dev
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
 </div>
 
 ## <h3 align="left">📲 Connect With Me:</h3>
@@ -90,14 +95,4 @@ I am a student of Informations of Systems at Impacta Tecnologia, i work as a Dev
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.postimg.cc/63jdJNBT/movies.jpg" alt="cinematograpy" style="width: 130px; height: 130px; text-align: center"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-##
-
-<div align="center">
-  <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" alt="bootcamp cloud computing" style="width: 60px; height: 65px">
-  &nbsp;&nbsp;
-  <img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" alt="bootcamp front-end" style="width: 72px; height: 75px">
-  &nbsp;&nbsp;
-  <img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" alt="bootcamp front-end" style="width: 60px; height: 65px">
 </div>
